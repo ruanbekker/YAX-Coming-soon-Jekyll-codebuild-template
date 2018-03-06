@@ -8,6 +8,7 @@ phases:
     commands:
       - echo "******** Building coming soon page ********"
       - jekyll build
-      - echo "******** Updating coming soon page to s3 bucket:  ********"
+      - echo "******** Updating coming soon page to s3 bucket ->  ********"
       - echo "$TARGET_S3_BUCKET"
       - aws s3 sync _site/ $TARGET_S3_BUCKET
+
