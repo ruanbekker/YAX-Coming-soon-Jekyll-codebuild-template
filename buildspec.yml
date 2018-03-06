@@ -1,0 +1,13 @@
+version: 0.1
+   
+phases:
+  install:
+    commands:
+      - gem install jekyll jekyll-watch
+  build:
+    commands:
+      - echo "******** Building coming soon page ********"
+      - jekyll build
+      - echo "******** Updating coming soon page to s3 bucket:  ********"
+      - echo "$TARGET_S3_BUCKET"
+      - aws s3 sync _site/ $TARGET_S3_BUCKET
