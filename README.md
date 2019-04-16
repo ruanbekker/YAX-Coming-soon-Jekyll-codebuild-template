@@ -1,5 +1,4 @@
-# YAX-Coming-soon-Jekyll-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon  Jekyll template
+# Serverless Tutorials Blog
 
 Designed by : Ilya B.  
 url: https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template  
