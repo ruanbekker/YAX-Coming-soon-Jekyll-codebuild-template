@@ -10,4 +10,6 @@ We are working on it. Serverless tutorials will provide blog posts on any server
 
 <br>
 
-For any questions in the meantime, use the following tools to reach out to via mail @ [ruan@ruanbekker.com](mailto:ruan@ruanbekker.com), linkedin: [linkedin/in/ruanbekker](https://www.linkedin.com/in/ruanbekker/), twitter [ @ruanbekker](https://twitter.com/ruanbekker), or slack: [linux-hackers @ ruan.dev](https://slack.ruan.dev/)
+For any questions in the meantime, use the following tools to reach out to me via: 
+
+mail @ [ruan@ruanbekker.com](mailto:ruan@ruanbekker.com), linkedin: [linkedin/in/ruanbekker](https://www.linkedin.com/in/ruanbekker/), twitter [ @ruanbekker](https://twitter.com/ruanbekker), or slack: [linux-hackers @ ruan.dev](https://slack.ruan.dev/)
